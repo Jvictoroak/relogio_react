@@ -1,0 +1,20 @@
+/* ...existing code... */
+
+canvas{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#clock-canvas {
+    display:block;
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto;
+    background: #f8f9fa;
+    border-radius: 50%;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+}
+
+/* ...existing code... */
